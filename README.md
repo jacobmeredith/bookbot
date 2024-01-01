@@ -2,6 +2,10 @@
 
 A utility for generating a report on how many words and characters are in a given text document.
 
+## Python version
+
+The project has been built and tested on `3.12.1`
+
 ## Usage
 
 Run the following command after cloning the repository. You will have to provide a path to a txt file that is located on your computer.
